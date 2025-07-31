@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aarya Patil
 
 Final-Year B.Tech. Computer Science & Engineering @ Symbiosis Institute of Technology, Pune  
-🏆 Project selected in top 100 teams, CiiA Exhibitions 2025 (Mumbai) | 💡 Patent published for 'Smart Plant Monitoring System'
+🏆 Project (SOS response device) selected in top 100 teams, CiiA Exhibitions 2025 (Mumbai) | 💡 Patent published for 'Smart Plant Monitoring System'
 
 ## 🚀 About Me
 
