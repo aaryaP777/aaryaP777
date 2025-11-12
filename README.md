@@ -12,7 +12,7 @@ I'm an aspiring Software Engineer with a passion for designing intuitive digital
 - **Web Development:** React, HTML, JavaScript, CSS  
 - **Database Management:** MySQL  
 - **Version Control:** Git, GitHub  
-- **Cloud & DevOps:** Amazon AWS  
+- **Cloud & DevOps:** Amazon AWS, Docker, Kubernetes, Jenkins  
 - **Machine Learning:** Python, NumPy, Pandas, Matplotlib, Seaborn  
 - **Deep Learning:** MLP, CNN  
 - **Programming:** Java (Data Structures and Algorithms)  
